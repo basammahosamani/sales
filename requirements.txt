@@ -1,13 +1,14 @@
-gradio
+streamlit
 langchain
-langchain-community
 langchain-core
+langchain-community
 langchain-groq
 langchain-huggingface
 sentence-transformers
 faiss-cpu
 python-dotenv
-openpyxl
 pypdf
+openpyxl
 pandas
+gradio
 torch
