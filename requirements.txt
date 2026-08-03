@@ -4,11 +4,10 @@ langchain-core
 langchain-community
 langchain-groq
 langchain-huggingface
-sentence-transformers
+langchain-text-splitters
 faiss-cpu
-python-dotenv
-pypdf
-openpyxl
+sentence-transformers
 pandas
-gradio
-torch
+openpyxl
+pypdf
+groq
