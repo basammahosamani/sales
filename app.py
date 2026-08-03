@@ -28,4 +28,4 @@ with gr.Blocks(title="PragyanAI Intelligent Assistant") as demo:
             clear_btn.click(fn=clear_chat_history, inputs=[persona_selector], outputs=None)
 
 if __name__ == "__main__":
-    demo.launch(share=True, debug=True)
+    demo.launch
